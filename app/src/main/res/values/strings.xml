@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Practica1 LIVH</string>
+    <string name="no_data">No hay registros</string>
+    <string name="add_data">Agregar elemento</string>
+    <string name="name_borrower">Nombre del prestatario</string>
+    <string name="alias_borrower">Alias del prestatario</string>
+    <string name="state_borrower">Estado</string>
+    <string name="add_name">Nombre</string>
+    <string name="add_alias">Alias</string>
+    <string name="add_surname">Apellido</string>
+    <string name="add_state">Estado</string>
+    <string name="borrower">Prestatario</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="error_saving">Error al guardar la información del prestatario</string>
+    <string name="success_saving">Información guardada exitosamente</string>
+    <string name="update">Actualizar</string>
+    <string name="delete">Borrar\n</string>
+    <string name="success_update">Información actualizada exitosamente</string>
+    <string name="error_update">Error al actualizar la información</string>
+    <string name="error_delete">Error al borrar al prestatario</string>
+    <string name="success_delete">Prestatario borrado exitosamente</string>
+    <string name="confirm">Confirmación</string>
+    <string name="ok">Eliminar</string>
+    <string name="confirm_borrower">¿Realmente desea eliminar el prestatario %1$s?</string>
+    <string-array name="user_states">
+        <item>Estado del prestatario</item>
+        <item>Activo</item>
+        <item>Inactivo</item>
+    </string-array>
+</resources>
